@@ -18,3 +18,24 @@
 | Goodyaoshi              | **灰太狼**      | https://gitee.com/Goodyaoshi/iFreeTimeBookConfigs    |
 | adolphz                 | **在这**        | https://gitee.com/adolphz/iFreeTimebookConfigs       |
 
+最后这里贴出拷贝到iread中的地址
+
+| 作者 | 链接  |
+| ----- | ------------------------------------------------------ |
+| 曙光: | https://github.com/CenterKing/iread/tree/master/aiyue  |
+| abc君 | https://github.com/CenterKing/iread/tree/master/ibooks |
+|feifeiadmim|                                     https://github.com/CenterKing/iread/tree/master/book_yuan |
+|Liquor030|https://github.com/CenterKing/iread/tree/master/iFreeTimebookConfigs |
+| zxhzxhz | https://github.com/CenterKing/iread/tree/master/booksource |
+| 在这 | https://github.com/CenterKing/iread/tree/master/adolphz |
+| bug退散 | https://github.com/CenterKing/iread/tree/master/i-free-timebook-configs |
+| 纲吉 | https://github.com/CenterKing/iread/tree/master/bookConfigs |
+| 相逢应不识 | https://github.com/CenterKing/iread/tree/master/ift123 |
+| BlackTouma | https://github.com/CenterKing/iread/tree/master/BlackTouma |
+| Liquor030 | https://github.com/CenterKing/iread/tree/master/Liquor030 |
+| 灰太狼 | https://github.com/CenterKing/iread/tree/master/Goodyaoshi |
+| Mxy | https://github.com/CenterKing/iread/tree/master/iosread |
+
+
+
+# 同步时间：20220527
